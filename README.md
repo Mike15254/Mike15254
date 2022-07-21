@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  👋 am Michael Muia a software developer from Kenya.
 
 <!--
 **Mike15254/Mike15254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mike15254)
